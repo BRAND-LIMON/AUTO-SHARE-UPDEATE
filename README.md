@@ -1,2 +1,12 @@
 # AUTO-SHARE-UPDEATE
 Updeate
+
+
+FACEBOOK POST VIDEO AUTO SHARE UPDEATE DONE
+
+git clone https://github.com/DIGITAL-XD/AUTO-SHARE-UPDEATE
+
+
+cd AUTO-SHARE-UPDEATE
+
+python share-updeat-max_.py
